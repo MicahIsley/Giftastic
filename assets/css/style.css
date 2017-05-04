@@ -1,0 +1,35 @@
+.item {
+	width: auto;
+	float: left;
+	margin: 5px;
+}
+
+header {
+	text-align: center;
+	font-size: 50px;
+}
+
+p {
+	text-align: center;
+	background: orange;
+	font-size: 20px;
+	width: 100px;
+}
+
+button {
+	background: blue;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	margin: 3px;
+	color: white;
+}
+
+button:hover {
+	background: lightblue;
+}
+
+#add-gif {
+	background: pink;
+	margin-top: 5px;
+}
